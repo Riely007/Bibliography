@@ -6,6 +6,7 @@ A collection of books, blogs and essays that shape me.
 - [Marginal Revolution ](https://marginalrevolution.com/) -  an economics blog co-authored by Tyler Cowen and Alex Tabarrok.
 - [Delusion Damage ](https://web.archive.org/web/20110210130301/delusiondamage.com/) -  a blog about happiness and personaly growth. I don't like the game parts. But when it's about life goal and happiness, he obviously knows what he's talking about.
 - [Less Wrong ](https://en.wikipedia.org/wiki/LessWrong) -  LO is a community blog and forum focused on discussion of cognitive biases, philosophy, psychology, economics, rationality, and artificial intelligence, among other topics.
+- [The Last Psychiatrist ](https://thelastpsychiatrist.com/) - a blog about psychiatry, media, science, philosophy, war.
 
 
 ## Whitepaper:
