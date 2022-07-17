@@ -11,10 +11,6 @@ A collection of books, blogs and essays that shape me.
 - [Shtetl-Optimized ](https://scottaaronson.blog/) - The Blog of Scott Aaronson.
 - [8000 Hours Blog ](https://80000hours.org/key-ideas/) - 80,000 Hours is part of the Centre for Effective Altruism. The blog shares tons of rescources about high-impact careers and earning-to-give.
 
-## Books:
-
-
-
 ## Whitepaper:
 - [Bitcoin Whitepaper ](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Whitepaper ](https://ethereum.org/en/whitepaper/)
