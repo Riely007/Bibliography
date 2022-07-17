@@ -8,6 +8,7 @@ A collection of books, blogs and essays that shape me.
 - [Less Wrong ](https://en.wikipedia.org/wiki/LessWrong) -  LO is a community blog and forum focused on discussion of cognitive biases, philosophy, psychology, economics, rationality, and artificial intelligence, among other topics.
 - [The Last Psychiatrist ](https://thelastpsychiatrist.com/) - a blog about psychiatry, media, science, philosophy, war.
 - [Program Thinking ](https://program-think.blogspot.com/) - a blog about cyber security, psychology, self development, history and politics. 
+- [Shtetl-Optimized ](https://scottaaronson.blog/) - The Blog of Scott Aaronson.
 - [8000 Hours Blog ](https://80000hours.org/key-ideas/) - 80,000 Hours is part of the Centre for Effective Altruism. The blog shares tons of rescources about high-impact careers and earning-to-give.
 
 ## Books:
