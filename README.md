@@ -1,7 +1,7 @@
 # Bibliography
 A collection of books, blogs and essays that shape me. 
 
-## Blogs:
+## Blogs
 - [Slate Star Codex ](https://slatestarcodex.com/) -  A blog focused on science, medicine (especially within psychiatry), philosophy, politics, and futurism. The blog was written by Scott Alexander Siskind, a San Francisco Bay Area psychiatrist, under the pen name Scott Alexander. Here's his new blog: [Astral Codex Ten ](https://astralcodexten.substack.com/).
 - [Marginal Revolution ](https://marginalrevolution.com/) -  An economics blog co-authored by Tyler Cowen and Alex Tabarrok.
 - [Delusion Damage ](https://web.archive.org/web/20110210130301/delusiondamage.com/) -  A blog about happiness and personaly growth. I don't like the game parts. But when it's about life goal and happiness, he obviously knows what he's talking about.
@@ -11,7 +11,7 @@ A collection of books, blogs and essays that shape me.
 - [Shtetl-Optimized ](https://scottaaronson.blog/) - The Blog of Scott Aaronson.
 - [8000 Hours Blog ](https://80000hours.org/key-ideas/) - 80,000 Hours is part of the Centre for Effective Altruism. The blog shares tons of rescources about high-impact careers and earning-to-give.
 
-## Books:
+## Books
 - [The Myth of Sisyphus and Other Essays ](https://www.amazon.com/Myth-Sisyphus-Other-Essays/dp/0679733736) - Camus introduces his philosophy of the absurd in this book.
 - [Beyond Good and Evil ](https://www.amazon.com/Beyond-Good-Evil-Friedrich-Nietzsche/dp/1503250881) 
 - [The Sovereign Individual ](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720) 
@@ -22,7 +22,9 @@ A collection of books, blogs and essays that shape me.
 - [Siddhartha ](https://www.amazon.com/Siddhartha-Novel-Hermann-Hesse/dp/0553208845) 
 - [Pleasure of Finding Things Out ](https://www.amazon.com/Pleasure-Finding-Things-Out-Richard/dp/0465023959) 
 
-## Whitepaper:
+## Whitepaper
 - [Bitcoin Whitepaper ](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Whitepaper ](https://ethereum.org/en/whitepaper/)
 - [Ethereum Yellowpaper ](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Arweave Whitepaper ](https://www.arweave.org/whitepaper.pdf)
+
