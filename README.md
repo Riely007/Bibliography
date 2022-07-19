@@ -21,6 +21,9 @@ A collection of books, blogs and essays that shape me.
 - [Siddhartha ](https://www.amazon.com/Siddhartha-Novel-Hermann-Hesse/dp/0553208845) 
 - [Pleasure of Finding Things Out ](https://www.amazon.com/Pleasure-Finding-Things-Out-Richard/dp/0465023959) 
 - [The Sovereign Individual ](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720) 
+- [Story of Your Life ](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0) 
+- [Exhalation ](https://www.amazon.com/Exhalation-Ted-Chiang/dp/1101972084) 
+
 
 
 ## Whitepaper
