@@ -17,7 +17,6 @@ A collection of books, blogs and essays that shape me.
 - [The Lessons of History  ](https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X) 
 - [On the Shortness of Life  ](https://www.amazon.com/Shortness-Life-Penguin-Great-Ideas/dp/0143036327) 
 - [Steppenwolf ](https://www.amazon.com/Steppenwolf-Novel-Picador-Modern-Classics/dp/1250074827) 
-- [Demian ](https://www.amazon.com/Demian-Herman-Hesse/dp/1492932671) 
 - [Siddhartha ](https://www.amazon.com/Siddhartha-Novel-Hermann-Hesse/dp/0553208845) 
 - [Pleasure of Finding Things Out ](https://www.amazon.com/Pleasure-Finding-Things-Out-Richard/dp/0465023959) 
 - [The Sovereign Individual ](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720) 
