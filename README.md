@@ -7,7 +7,6 @@ A collection of books, blogs and essays that shape me.
 - [Delusion Damage ](https://web.archive.org/web/20110210130301/delusiondamage.com/) -  A blog about happiness and personaly growth. I don't like the game parts. But when it's about life goal and happiness, he obviously knows what he's talking about.
 - [Less Wrong ](https://en.wikipedia.org/wiki/LessWrong) -  LO is a community blog and forum focused on discussion of cognitive biases, philosophy, psychology, economics, rationality, and artificial intelligence, among other topics.
 - [The Last Psychiatrist ](https://thelastpsychiatrist.com/) - A blog about psychiatry, media, science, philosophy, war.
-- [Program Thinking ](https://program-think.blogspot.com/) - A blog about cyber security, psychology, self development, history and politics. 
 - [Shtetl-Optimized ](https://scottaaronson.blog/) - The Blog of Scott Aaronson.
 - [8000 Hours Blog ](https://80000hours.org/key-ideas/) - 80,000 Hours is part of the Centre for Effective Altruism. The blog shares tons of rescources about high-impact careers and earning-to-give.
 
