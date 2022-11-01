@@ -8,6 +8,7 @@ A collection of books, blogs and essays that shape me.
 - [The Last Psychiatrist ](https://thelastpsychiatrist.com/) - A blog about psychiatry, media, science, philosophy, war.
 - [Shtetl-Optimized ](https://scottaaronson.blog/) - The Blog of Scott Aaronson.
 - [8000 Hours Blog ](https://80000hours.org/key-ideas/) - 80,000 Hours is part of the Centre for Effective Altruism. The blog shares tons of rescources about high-impact careers and earning-to-give.
+- [Zero HP Lovercraft ](https://zerohplovecraft.substack.com/)
 
 ## Books
 - [The Myth of Sisyphus and Other Essays ](https://www.amazon.com/Myth-Sisyphus-Other-Essays/dp/0679733736) - Camus introduces his philosophy of the absurd in this book.
