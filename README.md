@@ -21,6 +21,9 @@ A collection of books, blogs and essays that shape me.
 - [The Sovereign Individual ](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720) 
 - [Story of Your Life ](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0) 
 - [Exhalation ](https://www.amazon.com/Exhalation-Ted-Chiang/dp/1101972084) 
+- [The Scout Mindset ](https://www.goodreads.com/en/book/show/42041926-the-scout-mindset) 
+
+
 
 
 
