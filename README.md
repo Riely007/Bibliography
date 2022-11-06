@@ -23,10 +23,7 @@ A collection of books, blogs and essays that shape me.
 - [Exhalation ](https://www.amazon.com/Exhalation-Ted-Chiang/dp/1101972084) 
 - [The Scout Mindset ](https://www.goodreads.com/en/book/show/42041926-the-scout-mindset) 
 - [Money and Empire ](https://www.amazon.com/gp/product/B0B1V4TM74/ref=dbs_a_def_rwt_bibl_vppi_i0) 
-
-
-
-
+- [The Cathedral and the Bazaar ](http://www.catb.org/~esr/writings/cathedral-bazaar/) 
 
 ## Whitepaper
 - [Bitcoin Whitepaper ](https://bitcoin.org/bitcoin.pdf)
