@@ -26,7 +26,7 @@ A collection of books, blogs and essays that shape me.
 - [Money and Empire ](https://www.amazon.com/gp/product/B0B1V4TM74/ref=dbs_a_def_rwt_bibl_vppi_i0) 
 - [The Cathedral and the Bazaar ](http://www.catb.org/~esr/writings/cathedral-bazaar/) 
 - [Snow Crash ](https://en.wikipedia.org/wiki/Snow_Crash) 
-- [Daemon ](https://en.wikipedia.org/wiki/Daemon_(novel_series)
+- [Daemon ](https://en.wikipedia.org/wiki/Daemon_(novel_series))
 
 
 
