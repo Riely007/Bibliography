@@ -31,6 +31,10 @@ A collection of books, blogs and essays that shape me.
 - [Daemon ](https://en.wikipedia.org/wiki/Daemon_(novel_series))
 
 
+## Talks 
+- [You and Your Research ](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) 
+- [Screenwriters' Lecture: Charlie Kaufman ](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman) 
+
 
 ## Whitepaper
 - [Bitcoin Whitepaper ](https://bitcoin.org/bitcoin.pdf)
