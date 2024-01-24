@@ -29,6 +29,8 @@ A collection of books, blogs and essays that shape me.
 - [The Cathedral and the Bazaar ](http://www.catb.org/~esr/writings/cathedral-bazaar/) 
 - [Snow Crash ](https://en.wikipedia.org/wiki/Snow_Crash) 
 - [Daemon ](https://en.wikipedia.org/wiki/Daemon_(novel_series))
+- [Hackers & Painters ](https://www.amazon.sg/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
+
 
 
 ## Talks 
